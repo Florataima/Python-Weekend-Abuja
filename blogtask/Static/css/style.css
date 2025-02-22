@@ -1,0 +1,18 @@
+p{
+    color: rgb(103, 154, 199);
+
+}
+
+.publish{
+    color: rgb(148, 99, 194);
+    font-size: 20px;
+
+}
+
+header{
+    height: 120px;
+    background-color: rgb(241, 227, 227);
+    text-align: center;
+    color: white;
+    
+}
